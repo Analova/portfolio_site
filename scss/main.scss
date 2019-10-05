@@ -2,6 +2,7 @@
 @import "menu";
 
 
+
 * {
     box-sizing: border-box;
 }
@@ -76,3 +77,6 @@ main {
     }
 
 }
+
+
+@import 'mobile';
